@@ -1,5 +1,5 @@
 <h1 align="center"> Classificação de Imagens no Conjunto de Dados MPEG7 Modificado </h1>
-Projeto da disciplina SIN 393 - Introdução à Visão Computacional
+Projeto da disciplina SIN 393 - Introdução à Visão Computacional ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 Este projeto implementa um sistema de classificação de imagens utilizando um conjunto de dados modificado do MPEG7. O projeto foi desenvolvido em Python pelos alunos Júlio Cezar Cardoso e Gustavo Henrique de Deus Reis, usando bibliotecas populares para visão computacional e aprendizado de máquina.
 
