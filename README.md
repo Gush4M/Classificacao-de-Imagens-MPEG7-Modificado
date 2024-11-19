@@ -37,5 +37,4 @@ python Classificação_de_Imagens_MPEG7_Modificado.py
 # Autores
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/98776180?v=4" width=115><br><sub>Gustavo Henrique de Deus Reis</sub>](https://github.com/Gush4M) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/108095908?v=4" width=115><br><sub>Júlio Cezar Lopes Cardoso</sub>](https://github.com/cez4rrxvxl) |
-| :---: | :---: | :---: |
 
