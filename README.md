@@ -1,4 +1,4 @@
-# Classificação de Imagens MPEG7 Modificado
+<h1 align="center"> Classificação de Imagens no Conjunto de Dados MPEG7 Modificado </h1>
 Projeto da disciplina SIN 393 - Introdução à Visão Computacional
 
 Este projeto implementa um sistema de classificação de imagens utilizando um conjunto de dados modificado do MPEG7. O projeto foi desenvolvido em Python pelos alunos Júlio Cezar Cardoso e Gustavo Henrique de Deus Reis, usando bibliotecas populares para visão computacional e aprendizado de máquina.
@@ -20,7 +20,7 @@ As principais dependências para este projeto incluem:
 # Execução
 Clone o repositório:
 
-git clone <url_do_repositorio>
+git clone <https://github.com/Gush4M/Classificacao-de-Imagens-MPEG7-Modificado/tree/main>
 cd Classificação_de_Imagens_MPEG7_Modificado
 
 Certifique-se de que todas as dependências foram instaladas.
