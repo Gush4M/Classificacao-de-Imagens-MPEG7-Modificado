@@ -1,7 +1,55 @@
+
 <h1 align="center"> Classificação de Imagens no Conjunto de Dados MPEG7 Modificado </h1>
 Projeto da disciplina SIN 393 - Introdução à Visão Computacional
 
-Este projeto implementa um sistema de classificação de imagens utilizando um conjunto de dados modificado do MPEG7. O projeto foi desenvolvido em Python pelos alunos Júlio Cezar Cardoso e Gustavo Henrique de Deus Reis, usando bibliotecas populares para visão computacional e aprendizado de máquina.
+Este projeto tem como objetivo implementar e avaliar diferentes métodos de classificação de formas e silhuetas utilizando o dataset MPEG-7 Modificado, um conjunto de imagens binárias (preto e branco) contendo diversas categorias de objetos, animais e símbolos.
+
+# 📌 Objetivos
+
+- Implementar técnicas de extração de características (Hu Moments, Histogram of Oriented Gradients - HOG);
+
+- Comparar modelos de aprendizado de máquina tradicional (SVM, Random Forest) com redes neurais convolucionais (CNNs);
+
+- Avaliar a eficiência de diferentes abordagens para reconhecimento de formas.
+
+# 🔍 Métodos Utilizados
+🔹 Pré-processamento
+
+- Binarização e normalização de imagens
+
+- Extração de contornos
+
+🔹 Extração de Características
+
+- Hu Moments (invariantes a rotação e escala)
+
+- HOG (Histogram of Oriented Gradients) para descrição estrutural
+
+🔹 Modelos de Classificação
+
+- SVM (Máquinas de Vetores de Suporte);
+
+- Random Forest;
+
+- CNN (Rede Neural Convolucional) adaptada para formas binárias;
+
+# 📊 Resultados
+
+Os experimentos compararam a acurácia dos diferentes métodos, analisando:
+
+- Desempenho em diferentes categorias do dataset;
+
+- Robustez a variações de rotação e escala;
+
+- Tempo de processamento e eficiência computacional.
+
+Um relatório detalhado (em PDF) está disponível no repositório, contendo:
+
+✔️ Metodologia completa
+
+✔️ Análise comparativa dos modelos
+
+✔️ Conclusões e possíveis melhorias
 
 # Requisitos do Sistema
  - Sistema Operacional: Windows, macOS ou Linux
